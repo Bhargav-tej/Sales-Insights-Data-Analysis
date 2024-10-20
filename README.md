@@ -18,7 +18,7 @@ The project leverages SQL for data extraction and Power BI for creating interact
 - Data Collection: Sales data is extracted from various sources using SQL queries.
 - Data Processing: The extracted data is cleaned and prepared for analysis.
 - Dashboard Creation: Power BI is used to create an interactive dashboard displaying key insights, such as:
-  - Revenue trends (2017-2018)
+  - Revenue trends (2017-2020)
   - Sales and revenue by market
   - Top 5 customers and products
   - Profit analysis, including total profit margin and contributions to revenue
@@ -36,7 +36,8 @@ The project leverages SQL for data extraction and Power BI for creating interact
 
 - Power BI: Used for creating the interactive dashboards that display sales, revenue, and profit insights.
 
-## Expected Outcomes - Bhargav Tej
+## Expected Outcomes 
   - Improved Decision-Making: Sales teams can make better decisions based on timely and accurate sales insights.
   - Cost Savings: The project is expected to contribute to a 10% reduction in total spend.
   - Efficiency: Automating data collection will save 20% of the sales analysts’ time, allowing them to focus on more strategic tasks
+## Author   - Bhargav Tej
